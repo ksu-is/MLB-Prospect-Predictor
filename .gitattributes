@@ -1,6 +1,8 @@
 # Ignore examples
 EXAMPLES/* linguist-vendored
-
 # Ignore supporting data files
 *.csv linguist-vendored
 *.html linguist-vendored
+.py filter=lfs diff=lfs merge=lfs -text
+.cvs filter=lfs diff=lfs merge=lfs -text
+.html filter=lfs diff=lfs merge=lfs -text
