@@ -1,0 +1,8 @@
+- [x] Create README
+- [ ] Fully update README
+- [x] Upload code from pybaseball
+- [ ] Create formulas that weighs stats and gives a rating of "tools" on the 20-80 scale
+- [ ] Implement a functioning GUI that can pull and compare data from pybaseball
+- [ ] Create formula to project future success
+- [ ] Fix any errors
+- [ ] Create powerpoint to present programs capability
